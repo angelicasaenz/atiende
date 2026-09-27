@@ -1,4 +1,4 @@
-package com.devSenior.atiende;
+package com.devsenior.atiende;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
